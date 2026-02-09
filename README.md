@@ -97,6 +97,7 @@ ACCURACY SCORE
 CONFUSION MATRIX
 <img width="1095" height="106" alt="Screenshot 2026-02-04 093142" src="https://github.com/user-attachments/assets/66d70bd6-f5c3-4a71-bd67-4f34ee9873a1" />
 CLASSIFICATION REPORT & PREDICTION
+
 <img width="585" height="405" alt="Screenshot 2026-02-04 094809" src="https://github.com/user-attachments/assets/a77b470d-f551-4897-bddd-4723d18c75c4" />
 
 
