@@ -89,6 +89,7 @@ COPY
 FIT TRANSFORM
 <img width="1083" height="627" alt="Screenshot 2026-02-04 093113" src="https://github.com/user-attachments/assets/836d86c2-994b-4da2-ac4e-469bde910fc5" />
 LOGISTIC REGRESSION
+
 <img width="601" height="91" alt="Screenshot 2026-02-04 093809" src="https://github.com/user-attachments/assets/b9c408cb-e023-48e9-9a59-2c371948c22b" />
   
 ACCURACY SCORE
